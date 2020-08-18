@@ -5,4 +5,5 @@ npm install -g @angular/cli
 ng version
 ng help
 ng new angular-project
+ng serve
 ```
