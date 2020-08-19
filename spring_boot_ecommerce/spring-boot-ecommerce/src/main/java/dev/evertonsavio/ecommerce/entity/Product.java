@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 @Entity
-@Table(name="Produto")
+@Table(name="product")
 @Data //Lombok !!! WoW!!!
 public class Product {
     @Id
