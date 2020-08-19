@@ -8,7 +8,7 @@ ng new angular-project
 ng serve --open
 ```
 
-- Gerar novo componente:
+- Gerar novo componente:  
 
 ```
 ng generate component sales-person-list
